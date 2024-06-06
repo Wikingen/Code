@@ -1,0 +1,7 @@
+name|type|hp|stamina|defense|condition|advantage|elemental weakness|gold|starting items|number of items|ultimate
+Odysseus|P|130|100|0|H|True|W|500|Greater Health Potion,Bow of Odysseus|1,1|none
+Argos|P|120|100|20|H|True|W|500|Greater Health Potion,Argos' Fangs|1,1|none
+Circe|P|110|110|10|H|False|E|75|Greater Health Potion,Circe's Wand|1,1|none
+Achilles|P|130|90|30|H|False|F|100|Greater Health Potion,Shield of Achilles|1,1|none
+Claire|P|300|100|10|H|True|F|550|Greater Health Potion,Argos' Fangs|1,1|none
+Riley|P|120|100|10|H|False|F|550|Greater Health Potion,Bow of Odysseus|1,1|none

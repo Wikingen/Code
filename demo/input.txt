@@ -1,0 +1,2 @@
+London 50000000
+Stockholm 10000000

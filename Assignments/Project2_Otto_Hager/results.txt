@@ -1,0 +1,13 @@
+Name: Odysseus
+Was winner: 1
+Gold: 375
+HP: 122.5
+Stamina: 100
+Equipment: 
+------------------
+Name: Argos
+Was winner: 0
+Gold: 500
+HP: 120
+Stamina: 100
+Equipment: 
